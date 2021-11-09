@@ -1,0 +1,32 @@
+[
+    {
+        "_id" : ObjectId("618464e4223c2d7faeab387d"),
+        "paciente" : "Bruno",
+        "medico" : {
+            "$ref" : "medico",
+            "$id" : ObjectId("618463f9223c2d7faeab387b")
+        },
+        "data" : "12/11/2021 - 10:30",
+        "_class" : "com.gama.academy.consultorio.model.Consulta"
+    },
+    {
+        "_id" : ObjectId("61846526223c2d7faeab387e"),
+        "paciente" : "Felipe",
+        "medico" : {
+            "$ref" : "medico",
+            "$id" : ObjectId("61846423223c2d7faeab387c")
+        },
+        "data" : "08/11/2021 - 13:00",
+        "_class" : "com.gama.academy.consultorio.model.Consulta"
+    },
+    {
+        "_id" : ObjectId("6188838bc8a1961144d87dbc"),
+        "paciente" : "Bruno Matias",
+        "medico" : {
+            "$ref" : "medico",
+            "$id" : ObjectId("61888212c8a1961144d87db9")
+        },
+        "data" : "08/11/2021 - 15:00",
+        "_class" : "com.gama.academy.consultorio.model.Consulta"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "_id" : ObjectId("618463f9223c2d7faeab387b"),
+        "nome" : "Jonas",
+        "area" : "Psiquiatra",
+        "_class" : "com.gama.academy.consultorio.model.Medico"
+    },
+    {
+        "_id" : ObjectId("61846423223c2d7faeab387c"),
+        "nome" : "Carlos",
+        "area" : "Cirurgião Chefe",
+        "_class" : "com.gama.academy.consultorio.model.Medico"
+    },
+    {
+        "_id" : ObjectId("618474851c981c56236205e8"),
+        "nome" : "Jen",
+        "area" : "Chefe do departamento",
+        "_class" : "com.gama.academy.consultorio.model.Medico"
+    },
+    {
+        "_id" : ObjectId("61888212c8a1961144d87db9"),
+        "nome" : "Banco Pan",
+        "area" : "Ajudar a ficar em dia",
+        "_class" : "com.gama.academy.consultorio.model.Medico"
+    }
+]
